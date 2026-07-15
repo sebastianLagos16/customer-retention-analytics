@@ -271,8 +271,3 @@ El proyecto implementa un flujo completo y reproducible de ciencia de datos, des
 
 El valor académico principal reside en la trazabilidad del ETL, el control de fuga de información, la comparación contra baseline, la interpretación crítica de matrices de confusión y la generación de un dashboard autónomo.
 
-## 16. Créditos académicos
-
-Proyecto de evaluación transversal desarrollado por Sebastian Lagos y Oscar Oreste.
-
-Tecnologías principales: Python, Pandas, NumPy, Requests, Plotly, Scikit-learn, Jupyter y Git.
