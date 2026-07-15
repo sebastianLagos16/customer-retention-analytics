@@ -1,0 +1,14 @@
+﻿.venv/
+.tmp_validation/
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pkl
+*.joblib
+*.bak
+*.tmp
+.env
+Sebastian_lagos_Oscar_Oreste_ET_801V_validado.ipynb
+.DS_Store
+Thumbs.db
